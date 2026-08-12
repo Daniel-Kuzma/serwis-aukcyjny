@@ -12,7 +12,7 @@ Projekt internetowego systemu aukcyjnego zrealizowany w frameworku Django. Aplik
 * **Zarządzanie:** Dedykowane widoki dla ofert użytkownika, licytowanych przedmiotów oraz historii własnych aukcji.
 * **Płatności:** Możliwość opłacenia wygranych aukcji poprzez wybór metody płatności (Karta/Gotówka).
 
-### Panel Pracownika (Staff)
+### Panel Pracownika
 * **Zamykanie aukcji:** Wykaz aukcji, których termin zakończenia już minął.
 * **Wystawianie rachunków:** Automatyczne generowanie faktury/płatności dla użytkownika, który złożył najwyższą ofertę w momencie zakończenia aukcji.
 * **Zatwierdzanie płatności:** Przegląd oczekujących wpłat i funkcja ich potwierdzania, połączona z automatyczną wysyłką mailową z potwierdzeniem.
