@@ -21,7 +21,7 @@ Projekt internetowego systemu aukcyjnego zrealizowany w frameworku Django. Aplik
 
 ## Technologie
 
-* **Backend:** Python 3.x, Django Framework
+* **Backend:** Python 3.14, Django Framework
 * **Baza danych:** SQLite (domyślna)
 * **Walidacja i Logika:** Transakcje atomowe (`@transaction.atomic`), niestandardowe walidacje modeli (`clean()`)
 * **Testy:** Django TestCase, Coverage (analiza pokrycia kodu)
