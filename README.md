@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.14-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-Templates-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 # System Domu Aukcyjnego (Auction House Web App)
 
 Projekt internetowego systemu aukcyjnego zrealizowany w frameworku Django. Aplikacja umożliwia użytkownikom przeglądanie, wystawianie oraz licytowanie przedmiotów w czasie rzeczywistym, a także automatyzuje proces generowania rachunków i obsługi płatności przez panel administracyjny (pracowników).
